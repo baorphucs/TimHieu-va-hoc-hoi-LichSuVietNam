@@ -28,14 +28,14 @@
 1. Clone repository:
 
 ```bash
-git clone https://github.com/KhoaCongNgheSoUTE/tkw25.nhom14.git
+git clone #
 ```
 
 hoặc
 \*Lưu ý: ở github vndhieutrum đây là dự án deploy
 
 ```bash
-git clone https://github.com/vndhieutrum/50-nam-giai-phong-135-nam-ngay-sinh-bac-ho.git
+git clone #
 ```
 
 2. Cài đặt dependencies:
@@ -353,10 +353,10 @@ src/
 
 ## 👨‍💻 Tác giả
 
-- **Họ và tên**: Võ Nguyễn Đại Hiếu
-- **Mã sinh viên**: 23115053122217
-- **Lớp**: 23T2
-- **GitHub**: [hieuvolaptrinh](https://github.com/hieuvolaptrinh)
+- **Họ và tên**: PhamNgocBaoPhuc
+- **Mã sinh viên**: 2200001971
+- **Lớp**: 22DTH3B
+- **GitHub**: [BaorPhucs](https://github.com/baorphucs)
 
 ---
 
