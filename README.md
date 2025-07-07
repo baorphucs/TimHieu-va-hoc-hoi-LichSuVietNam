@@ -32,7 +32,7 @@ git clone #
 ```
 
 hoặc
-\*Lưu ý: ở github vndhieutrum đây là dự án deploy
+\*Lưu ý: ở github đây là dự án deploy
 
 ```bash
 git clone #
