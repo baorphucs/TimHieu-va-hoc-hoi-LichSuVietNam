@@ -1,0 +1,34 @@
+/* html {
+  font-size: 62.5%;
+} */
+.mainTitle {
+  text-align: center;
+  color: rgb(241, 76, 64);
+  font-weight: bold;
+}
+/* Small devices: ≥600px */
+@media (max-width: 600px) {
+  .mainTitle {
+    font-size: 2rem !important;
+  }
+}
+/* Small devices: ≥600px */
+@media (min-width: 600px) {
+  .mainTitle {
+    font-size: 2.5rem !important;
+  }
+}
+
+/* Medium devices: ≥900px */
+@media (min-width: 900px) {
+  .mainTitle {
+    font-size: 3rem !important;
+  }
+}
+
+/* Large devices: ≥1200px */
+@media (min-width: 1200px) {
+  .mainTitle {
+    font-size: 3.5rem !important;
+  }
+}

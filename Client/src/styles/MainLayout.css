@@ -1,0 +1,16 @@
+.sticky-sidebar {
+  position: static; /* Mặc định là static cho xs (< 576px) */
+  top: 80px;
+  height: auto;
+  overflow-y: visible;
+}
+
+/* Từ sm trở lên (>= 576px), áp dụng sticky */
+@media (min-width: 576px) {
+  .sticky-sidebar {
+    position: sticky;
+    height: calc(100vh - 80px); /* Giới hạn chiều cao để sticky hoạt động */
+    overflow-y: auto; /* Cho phép cuộn nếu nội dung dài */
+    z-index: 1; /* Đảm bảo không bị che */
+  }
+}
