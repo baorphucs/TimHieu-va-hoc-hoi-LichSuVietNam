@@ -370,7 +370,7 @@ server/
 ├── seedQuiz.js
 ├── seedQuotes.js
 ├── package-lock.json
-
+```
 ## 👨‍💻 Tác giả
 
 - **Họ và tên**: PhamNgocBaoPhuc
